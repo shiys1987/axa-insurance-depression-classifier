@@ -18,4 +18,8 @@ To **activate the environment**:
 ```conda activate axa-depression-classifier```
 
 ## Files contained within this repo
-The `data` contains the dataset from Kaggle website, and `src` contains main coding for EDA and model codes.
+* `data` folder contains the dataset from Kaggle website
+* `src` folder contains main coding for EDA and model codes
+* `output` folder contains pickles and images from the notebooks are saved under `figures`
+* `eda.ipynb` contains code and summary for EDA part, answers for **Q1**
+* `modelling.ipynb` contains code and summary for building the binary classifier, and assessment on the performances, answers for **Q2**
