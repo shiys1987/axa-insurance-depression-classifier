@@ -22,4 +22,4 @@ To **activate the environment**:
 * `src` folder contains main coding for EDA and model codes
 * `output` folder contains pickles and images from the notebooks are saved under `figures`
 * `eda.ipynb` contains code and summary for EDA part, answers for **Q1**
-* `modelling.ipynb` contains code and summary for building the binary classifier, and assessment on the performances, answers for **Q2**
+* `modelling.ipynb` contains code and summary for building the binary classifier, and assessment on the performances, answers for **Q2** and **Q3**
